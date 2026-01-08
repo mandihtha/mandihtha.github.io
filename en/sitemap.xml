@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mandihtha.github.io/en/spec/</loc>
+  </url><url>
     <loc>https://mandihtha.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -311,8 +313,6 @@
     <loc>https://mandihtha.github.io/en/spec/mps-9040-appendix-privacy/</loc>
   </url><url>
     <loc>https://mandihtha.github.io/en/spec/mps-9050-appendix-security/</loc>
-  </url><url>
-    <loc>https://mandihtha.github.io/en/spec/</loc>
   </url><url>
     <loc>https://mandihtha.github.io/en/tags/</loc>
     <xhtml:link
