@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta name="generator" content="Hugo 0.154.3">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mandihtha Protocol | Mandihtha Protocol</title>
+  <meta name="description" content="Mandihtha Protocol specification">
+</head>
+<body>
+  <main>
+    
+<h1>Mandihtha Protocol</h1>
+<p>Mandihtha Protocol specification</p>
+
+<h2>Specification</h2>
+<ul>
+  
+  <li><a href="../en/spec/mps-0000-introduction/">MPS-0000: Introduction</a></li>
+  
+  <li><a href="../en/spec/mps-0010-motivation/">MPS-0010: Motivation</a></li>
+  
+  <li><a href="../en/spec/mps-0020-prior-art/">MPS-0020: Prior art</a></li>
+  
+  <li><a href="../en/spec/mps-0030-goals/">MPS-0030: Goals</a></li>
+  
+  <li><a href="../en/spec/mps-0090-summary/">MPS-0090: Summary</a></li>
+  
+  <li><a href="../en/spec/mps-0100-system-overview/">MPS-0100: System overview</a></li>
+  
+  <li><a href="../en/spec/mps-0110-native-platforms/">MPS-0110: Native platforms</a></li>
+  
+  <li><a href="../en/spec/mps-0120-web-platforms/">MPS-0120: Web platforms</a></li>
+  
+  <li><a href="../en/spec/mps-0130-devices/">MPS-0130: Devices</a></li>
+  
+  <li><a href="../en/spec/mps-0140-device-keys/">MPS-0140: Device keys</a></li>
+  
+  <li><a href="../en/spec/mps-0150-device-signatures/">MPS-0150: Device signatures</a></li>
+  
+  <li><a href="../en/spec/mps-0160-device-events/">MPS-0160: Device events</a></li>
+  
+  <li><a href="../en/spec/mps-0170-platform-sync/">MPS-0170: Platform sync</a></li>
+  
+  <li><a href="../en/spec/mps-0180-system-events/">MPS-0180: System events</a></li>
+  
+  <li><a href="../en/spec/mps-0190-summary/">MPS-0190: Summary</a></li>
+  
+  <li><a href="../en/spec/mps-0200-identity-overview/">MPS-0200: Identity overview</a></li>
+  
+  <li><a href="../en/spec/mps-0210-profiles/">MPS-0210: Profiles</a></li>
+  
+  <li><a href="../en/spec/mps-0220-profile-keys/">MPS-0220: Profile keys</a></li>
+  
+  <li><a href="../en/spec/mps-0230-profile-events/">MPS-0230: Profile events</a></li>
+  
+  <li><a href="../en/spec/mps-0240-profile-encryption/">MPS-0240: Profile encryption</a></li>
+  
+  <li><a href="../en/spec/mps-0250-profile-usernames/">MPS-0250: Profile usernames</a></li>
+  
+  <li><a href="../en/spec/mps-0260-profile-portability/">MPS-0260: Profile portability</a></li>
+  
+  <li><a href="../en/spec/mps-0270-profile-backups/">MPS-0270: Profile backups</a></li>
+  
+  <li><a href="../en/spec/mps-0280-profile-management/">MPS-0280: Profile management</a></li>
+  
+  <li><a href="../en/spec/mps-0290-summary/">MPS-0290: Summary</a></li>
+  
+  <li><a href="../en/spec/mps-0300-content-overview/">MPS-0300: Content overview</a></li>
+  
+  <li><a href="../en/spec/mps-0310-posts/">MPS-0310: Posts</a></li>
+  
+  <li><a href="../en/spec/mps-0320-texts/">MPS-0320: Texts</a></li>
+  
+  <li><a href="../en/spec/mps-0330-urls/">MPS-0330: URLs</a></li>
+  
+  <li><a href="../en/spec/mps-0340-images/">MPS-0340: Images</a></li>
+  
+  <li><a href="../en/spec/mps-0380-annotations/">MPS-0380: Annotations</a></li>
+  
+  <li><a href="../en/spec/mps-0390-summary/">MPS-0390: Summary</a></li>
+  
+  <li><a href="../en/spec/mps-0400-contacts-overview/">MPS-0400: Contacts overview</a></li>
+  
+  <li><a href="../en/spec/mps-0410-contact-keys/">MPS-0410: Contact keys</a></li>
+  
+  <li><a href="../en/spec/mps-0420-contact-cards/">MPS-0420: Contact cards</a></li>
+  
+  <li><a href="../en/spec/mps-0470-contact-events/">MPS-0470: Contact events</a></li>
+  
+  <li><a href="../en/spec/mps-0480-contact-management/">MPS-0480: Contact management</a></li>
+  
+  <li><a href="../en/spec/mps-0490-summary/">MPS-0490: Summary</a></li>
+  
+  <li><a href="../en/spec/mps-0500-networking-overview/">MPS-0500: Networking overview</a></li>
+  
+  <li><a href="../en/spec/mps-0510-sneakernet/">MPS-0510: Sneakernet</a></li>
+  
+  <li><a href="../en/spec/mps-0520-local-networking/">MPS-0520: Local networking</a></li>
+  
+  <li><a href="../en/spec/mps-0530-internet/">MPS-0530: Internet</a></li>
+  
+  <li><a href="../en/spec/mps-0540-peer-to-peer-networking/">MPS-0540: Peer-to-peer networking</a></li>
+  
+  <li><a href="../en/spec/mps-0550-platform-networking/">MPS-0550: Platform networking</a></li>
+  
+  <li><a href="../en/spec/mps-0560-servers/">MPS-0560: Servers</a></li>
+  
+  <li><a href="../en/spec/mps-0570-dns/">MPS-0570: DNS</a></li>
+  
+  <li><a href="../en/spec/mps-0590-summary/">MPS-0590: Summary</a></li>
+  
+  <li><a href="../en/spec/mps-0600-sync-overview/">MPS-0600: Sync overview</a></li>
+  
+  <li><a href="../en/spec/mps-0610-synced-data/">MPS-0610: Synced data</a></li>
+  
+  <li><a href="../en/spec/mps-0620-sync-encryption/">MPS-0620: Sync encryption</a></li>
+  
+  <li><a href="../en/spec/mps-0630-direct-sync/">MPS-0630: Direct sync</a></li>
+  
+  <li><a href="../en/spec/mps-0650-server-managed-sync/">MPS-0650: Server-managed sync</a></li>
+  
+  <li><a href="../en/spec/mps-0660-filesystem-sync/">MPS-0660: Filesystem sync</a></li>
+  
+  <li><a href="../en/spec/mps-0670-platform-sync/">MPS-0670: Platform sync</a></li>
+  
+  <li><a href="../en/spec/mps-0680-bucket-sync/">MPS-0680: Bucket sync</a></li>
+  
+  <li><a href="../en/spec/mps-0690-summary/">MPS-0690: Summary</a></li>
+  
+  <li><a href="../en/spec/mps-0700-connections-overview/">MPS-0700: Connections overview</a></li>
+  
+  <li><a href="../en/spec/mps-0710-connection-prerequisites/">MPS-0710: Connection prerequisites</a></li>
+  
+  <li><a href="../en/spec/mps-0720-connection-requests/">MPS-0720: Connection requests</a></li>
+  
+  <li><a href="../en/spec/mps-0730-connection-request-routing/">MPS-0730: Connection request routing</a></li>
+  
+  <li><a href="../en/spec/mps-0740-connection-acceptance/">MPS-0740: Connection acceptance</a></li>
+  
+  <li><a href="../en/spec/mps-0750-connection-management/">MPS-0750: Connection management</a></li>
+  
+  <li><a href="../en/spec/mps-0790-summary/">MPS-0790: Summary</a></li>
+  
+  <li><a href="../en/spec/mps-0800-sessions-overview/">MPS-0800: Sessions overview</a></li>
+  
+  <li><a href="../en/spec/mps-0810-session-keys/">MPS-0810: Session keys</a></li>
+  
+  <li><a href="../en/spec/mps-0820-session-key-exchange/">MPS-0820: Session key exchange</a></li>
+  
+  <li><a href="../en/spec/mps-0830-session-key-storage/">MPS-0830: Session key storage</a></li>
+  
+  <li><a href="../en/spec/mps-0840-session-establishment/">MPS-0840: Session establishment</a></li>
+  
+  <li><a href="../en/spec/mps-0850-session-management/">MPS-0850: Session management</a></li>
+  
+  <li><a href="../en/spec/mps-0860-session-events/">MPS-0860: Session events</a></li>
+  
+  <li><a href="../en/spec/mps-0890-summary/">MPS-0890: Summary</a></li>
+  
+  <li><a href="../en/spec/mps-0900-messaging-overview/">MPS-0900: Messaging overview</a></li>
+  
+  <li><a href="../en/spec/mps-0910-messaging-keys/">MPS-0910: Messaging keys</a></li>
+  
+  <li><a href="../en/spec/mps-0920-messaging-encryption/">MPS-0920: Messaging encryption</a></li>
+  
+  <li><a href="../en/spec/mps-0930-system-messages/">MPS-0930: System messages</a></li>
+  
+  <li><a href="../en/spec/mps-0940-direct-messages/">MPS-0940: Direct messages</a></li>
+  
+  <li><a href="../en/spec/mps-0950-private-posts/">MPS-0950: Private posts</a></li>
+  
+  <li><a href="../en/spec/mps-0960-group-chats/">MPS-0960: Group chats</a></li>
+  
+  <li><a href="../en/spec/mps-0970-ephemerality/">MPS-0970: Ephemerality</a></li>
+  
+  <li><a href="../en/spec/mps-0990-summary/">MPS-0990: Summary</a></li>
+  
+  <li><a href="../en/spec/mps-1000-syndication-overview/">MPS-1000: Syndication overview</a></li>
+  
+  <li><a href="../en/spec/mps-1010-syndicatable-data/">MPS-1010: Syndicatable data</a></li>
+  
+  <li><a href="../en/spec/mps-1020-syndication-audiences/">MPS-1020: Syndication audiences</a></li>
+  
+  <li><a href="../en/spec/mps-1030-filesystem-syndication/">MPS-1030: Filesystem syndication</a></li>
+  
+  <li><a href="../en/spec/mps-1040-platform-syndication/">MPS-1040: Platform syndication</a></li>
+  
+  <li><a href="../en/spec/mps-1050-syndication-routing/">MPS-1050: Syndication routing</a></li>
+  
+  <li><a href="../en/spec/mps-1060-public-syndication/">MPS-1060: Public syndication</a></li>
+  
+  <li><a href="../en/spec/mps-1070-private-syndication/">MPS-1070: Private syndication</a></li>
+  
+  <li><a href="../en/spec/mps-1080-interoperable-syndication/">MPS-1080: Interoperable syndication</a></li>
+  
+  <li><a href="../en/spec/mps-1090-summary/">MPS-1090: Summary</a></li>
+  
+  <li><a href="../en/spec/mps-1100-publication-overview/">MPS-1100: Publication overview</a></li>
+  
+  <li><a href="../en/spec/mps-1110-publishable-data/">MPS-1110: Publishable data</a></li>
+  
+  <li><a href="../en/spec/mps-1120-publication-formats/">MPS-1120: Publication formats</a></li>
+  
+  <li><a href="../en/spec/mps-1130-html-publication/">MPS-1130: HTML publication</a></li>
+  
+  <li><a href="../en/spec/mps-1140-rss-publication/">MPS-1140: RSS publication</a></li>
+  
+  <li><a href="../en/spec/mps-1150-decentralized-publication/">MPS-1150: Decentralized publication</a></li>
+  
+  <li><a href="../en/spec/mps-1160-server-publication/">MPS-1160: Server publication</a></li>
+  
+  <li><a href="../en/spec/mps-1170-cdn-publication/">MPS-1170: CDN publication</a></li>
+  
+  <li><a href="../en/spec/mps-1180-ephemerality/">MPS-1180: Ephemerality</a></li>
+  
+  <li><a href="../en/spec/mps-1190-summary/">MPS-1190: Publication summary</a></li>
+  
+  <li><a href="../en/spec/mps-1200-accounts-overview/">MPS-1200: Accounts overview</a></li>
+  
+  <li><a href="../en/spec/mps-1210-peer-accounts/">MPS-1210: Peer accounts</a></li>
+  
+  <li><a href="../en/spec/mps-1220-server-accounts/">MPS-1220: Server accounts</a></li>
+  
+  <li><a href="../en/spec/mps-1250-guest-account-management/">MPS-1250: Guest account management</a></li>
+  
+  <li><a href="../en/spec/mps-1260-host-account-management/">MPS-1260: Host account management</a></li>
+  
+  <li><a href="../en/spec/mps-1270-federation/">MPS-1270: Federation</a></li>
+  
+  <li><a href="../en/spec/mps-1280-billing/">MPS-1280: Billing</a></li>
+  
+  <li><a href="../en/spec/mps-1290-summary/">MPS-1290: Summary</a></li>
+  
+  <li><a href="../en/spec/mps-1300-backups-overview/">MPS-1300: Backups overview</a></li>
+  
+  <li><a href="../en/spec/mps-1310-backed-up-data/">MPS-1310: Backed-up data</a></li>
+  
+  <li><a href="../en/spec/mps-1320-backup-encryption/">MPS-1320: Backup encryption</a></li>
+  
+  <li><a href="../en/spec/mps-1330-recovery-kit-backups/">MPS-1330: Recovery kit backups</a></li>
+  
+  <li><a href="../en/spec/mps-1340-peer-managed-backups/">MPS-1340: Peer-managed backups</a></li>
+  
+  <li><a href="../en/spec/mps-1350-server-managed-backups/">MPS-1350: Server-managed backups</a></li>
+  
+  <li><a href="../en/spec/mps-1360-filesystem-backups/">MPS-1360: Filesystem backups</a></li>
+  
+  <li><a href="../en/spec/mps-1370-platform-backups/">MPS-1370: Platform backups</a></li>
+  
+  <li><a href="../en/spec/mps-1380-bucket-backups/">MPS-1380: Bucket backups</a></li>
+  
+  <li><a href="../en/spec/mps-1390-summary/">MPS-1390: Summary</a></li>
+  
+  <li><a href="../en/spec/mps-1400-recovery-overview/">MPS-1400: Recovery overview</a></li>
+  
+  <li><a href="../en/spec/mps-1410-recoverable-data/">MPS-1410: Recoverable data</a></li>
+  
+  <li><a href="../en/spec/mps-1420-recovery-decryption/">MPS-1420: Recovery decryption</a></li>
+  
+  <li><a href="../en/spec/mps-1430-recovery-kit-usage/">MPS-1430: Recovery kit usage</a></li>
+  
+  <li><a href="../en/spec/mps-1440-peer-based-recovery/">MPS-1440: Peer-based recovery</a></li>
+  
+  <li><a href="../en/spec/mps-1450-server-based-recovery/">MPS-1450: Server-based recovery</a></li>
+  
+  <li><a href="../en/spec/mps-1460-filesystem-based-recovery/">MPS-1460: Filesystem-based recovery</a></li>
+  
+  <li><a href="../en/spec/mps-1470-platform-based-recovery/">MPS-1470: Platform-based recovery</a></li>
+  
+  <li><a href="../en/spec/mps-1480-bucket-based-recovery/">MPS-1480: Bucket-based recovery</a></li>
+  
+  <li><a href="../en/spec/mps-1490-summary/">MPS-1490: Summary</a></li>
+  
+  <li><a href="../en/spec/mps-1500-interoperability-overview/">MPS-1500: Interoperability overview</a></li>
+  
+  <li><a href="../en/spec/mps-1510-activitypub-ecosystem/">MPS-1510: ActivityPub ecosystem</a></li>
+  
+  <li><a href="../en/spec/mps-1520-activitypub-interoperability/">MPS-1520: ActivityPub interoperability</a></li>
+  
+  <li><a href="../en/spec/mps-1530-at-protocol-interoperability/">MPS-1530: AT Protocol interoperability</a></li>
+  
+  <li><a href="../en/spec/mps-1540-ipfs-interoperability/">MPS-1540: IPFS interoperability</a></li>
+  
+  <li><a href="../en/spec/mps-1550-matrix-interoperability/">MPS-1550: Matrix interoperability</a></li>
+  
+  <li><a href="../en/spec/mps-1560-nostr-interoperability/">MPS-1560: Nostr interoperability</a></li>
+  
+  <li><a href="../en/spec/mps-1570-rss-interoperability/">MPS-1570: RSS interoperability</a></li>
+  
+  <li><a href="../en/spec/mps-1580-ssb-interoperability/">MPS-1580: SSB interoperability</a></li>
+  
+  <li><a href="../en/spec/mps-1590-summary/">MPS-1590: Summary</a></li>
+  
+  <li><a href="../en/spec/mps-9010-appendix-cryptography/">MPS-9010: Appendix C: Cryptography</a></li>
+  
+  <li><a href="../en/spec/mps-9020-appendix-databases/">MPS-9020: Appendix D: Databases</a></li>
+  
+  <li><a href="../en/spec/mps-9030-appendix-glossary/">MPS-9030: Appendix G: Glossary</a></li>
+  
+  <li><a href="../en/spec/mps-9040-appendix-privacy/">MPS-9040: Appendix P: Privacy</a></li>
+  
+  <li><a href="../en/spec/mps-9050-appendix-security/">MPS-9050: Appendix S: Security</a></li>
+  
+</ul>
+
+  </main>
+</body>
+</html>

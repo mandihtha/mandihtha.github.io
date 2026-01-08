@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mandihtha Protocol</title>
+    <link>https://mandihtha.github.io/en/</link>
+    <description>Recent content on Mandihtha Protocol</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://mandihtha.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MPS-0000: Introduction</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0000-introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0000-introduction/</guid>
+      <description>&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0010: Motivation</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0010-motivation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0010-motivation/</guid>
+      <description>&lt;h1 id=&#34;motivation&#34;&gt;Motivation&lt;a class=&#34;anchor&#34; href=&#34;#motivation&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0020: Prior art</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0020-prior-art/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0020-prior-art/</guid>
+      <description>&lt;h1 id=&#34;prior-art&#34;&gt;Prior art&lt;a class=&#34;anchor&#34; href=&#34;#prior-art&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0030: Goals</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0030-goals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0030-goals/</guid>
+      <description>&lt;h1 id=&#34;goals&#34;&gt;Goals&lt;a class=&#34;anchor&#34; href=&#34;#goals&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0090: Summary</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0090-summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0090-summary/</guid>
+      <description>&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0100: System overview</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0100-system-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0100-system-overview/</guid>
+      <description>&lt;h1 id=&#34;system-overview&#34;&gt;System overview&lt;a class=&#34;anchor&#34; href=&#34;#system-overview&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0110: Native platforms</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0110-native-platforms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0110-native-platforms/</guid>
+      <description>&lt;h1 id=&#34;native-platforms&#34;&gt;Native platforms&lt;a class=&#34;anchor&#34; href=&#34;#native-platforms&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0120: Web platforms</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0120-web-platforms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0120-web-platforms/</guid>
+      <description>&lt;h1 id=&#34;web-platforms&#34;&gt;Web platforms&lt;a class=&#34;anchor&#34; href=&#34;#web-platforms&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0130: Devices</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0130-devices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0130-devices/</guid>
+      <description>&lt;h1 id=&#34;devices&#34;&gt;Devices&lt;a class=&#34;anchor&#34; href=&#34;#devices&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0140: Device keys</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0140-device-keys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0140-device-keys/</guid>
+      <description>&lt;h1 id=&#34;device-keys&#34;&gt;Device keys&lt;a class=&#34;anchor&#34; href=&#34;#device-keys&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0150: Device signatures</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0150-device-signatures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0150-device-signatures/</guid>
+      <description>&lt;h1 id=&#34;device-signatures&#34;&gt;Device signatures&lt;a class=&#34;anchor&#34; href=&#34;#device-signatures&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0160: Device events</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0160-device-events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0160-device-events/</guid>
+      <description>&lt;h1 id=&#34;device-events&#34;&gt;Device events&lt;a class=&#34;anchor&#34; href=&#34;#device-events&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0170: Platform sync</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0170-platform-sync/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0170-platform-sync/</guid>
+      <description>&lt;h1 id=&#34;platform-sync&#34;&gt;Platform sync&lt;a class=&#34;anchor&#34; href=&#34;#platform-sync&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0180: System events</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0180-system-events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0180-system-events/</guid>
+      <description>&lt;h1 id=&#34;system-events&#34;&gt;System events&lt;a class=&#34;anchor&#34; href=&#34;#system-events&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0190: Summary</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0190-summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0190-summary/</guid>
+      <description>&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0200: Identity overview</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0200-identity-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0200-identity-overview/</guid>
+      <description>&lt;h1 id=&#34;identity-overview&#34;&gt;Identity overview&lt;a class=&#34;anchor&#34; href=&#34;#identity-overview&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0210: Profiles</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0210-profiles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0210-profiles/</guid>
+      <description>&lt;h1 id=&#34;profiles&#34;&gt;Profiles&lt;a class=&#34;anchor&#34; href=&#34;#profiles&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0220: Profile keys</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0220-profile-keys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0220-profile-keys/</guid>
+      <description>&lt;h1 id=&#34;profile-keys&#34;&gt;Profile keys&lt;a class=&#34;anchor&#34; href=&#34;#profile-keys&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0230: Profile events</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0230-profile-events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0230-profile-events/</guid>
+      <description>&lt;h1 id=&#34;profile-events&#34;&gt;Profile events&lt;a class=&#34;anchor&#34; href=&#34;#profile-events&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0240: Profile encryption</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0240-profile-encryption/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0240-profile-encryption/</guid>
+      <description>&lt;h1 id=&#34;profile-encryption&#34;&gt;Profile encryption&lt;a class=&#34;anchor&#34; href=&#34;#profile-encryption&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0250: Profile usernames</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0250-profile-usernames/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0250-profile-usernames/</guid>
+      <description>&lt;h1 id=&#34;profile-usernames&#34;&gt;Profile usernames&lt;a class=&#34;anchor&#34; href=&#34;#profile-usernames&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0260: Profile portability</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0260-profile-portability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0260-profile-portability/</guid>
+      <description>&lt;h1 id=&#34;profile-portability&#34;&gt;Profile portability&lt;a class=&#34;anchor&#34; href=&#34;#profile-portability&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0270: Profile backups</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0270-profile-backups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0270-profile-backups/</guid>
+      <description>&lt;h1 id=&#34;profile-backups&#34;&gt;Profile backups&lt;a class=&#34;anchor&#34; href=&#34;#profile-backups&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0280: Profile management</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0280-profile-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0280-profile-management/</guid>
+      <description>&lt;h1 id=&#34;profile-management&#34;&gt;Profile management&lt;a class=&#34;anchor&#34; href=&#34;#profile-management&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0290: Summary</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0290-summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0290-summary/</guid>
+      <description>&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0300: Content overview</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0300-content-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0300-content-overview/</guid>
+      <description>&lt;h1 id=&#34;content-overview&#34;&gt;Content overview&lt;a class=&#34;anchor&#34; href=&#34;#content-overview&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0310: Posts</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0310-posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0310-posts/</guid>
+      <description>&lt;h1 id=&#34;posts&#34;&gt;Posts&lt;a class=&#34;anchor&#34; href=&#34;#posts&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0320: Texts</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0320-texts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0320-texts/</guid>
+      <description>&lt;h1 id=&#34;texts&#34;&gt;Texts&lt;a class=&#34;anchor&#34; href=&#34;#texts&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0330: URLs</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0330-urls/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0330-urls/</guid>
+      <description>&lt;h1 id=&#34;urls&#34;&gt;URLs&lt;a class=&#34;anchor&#34; href=&#34;#urls&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0340: Images</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0340-images/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0340-images/</guid>
+      <description>&lt;h1 id=&#34;images&#34;&gt;Images&lt;a class=&#34;anchor&#34; href=&#34;#images&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0380: Annotations</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0380-annotations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0380-annotations/</guid>
+      <description>&lt;h1 id=&#34;annotations&#34;&gt;Annotations&lt;a class=&#34;anchor&#34; href=&#34;#annotations&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0390: Summary</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0390-summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0390-summary/</guid>
+      <description>&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0400: Contacts overview</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0400-contacts-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0400-contacts-overview/</guid>
+      <description>&lt;h1 id=&#34;contacts-overview&#34;&gt;Contacts overview&lt;a class=&#34;anchor&#34; href=&#34;#contacts-overview&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0410: Contact keys</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0410-contact-keys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0410-contact-keys/</guid>
+      <description>&lt;h1 id=&#34;contact-keys&#34;&gt;Contact keys&lt;a class=&#34;anchor&#34; href=&#34;#contact-keys&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0420: Contact cards</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0420-contact-cards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0420-contact-cards/</guid>
+      <description>&lt;h1 id=&#34;contact-cards&#34;&gt;Contact cards&lt;a class=&#34;anchor&#34; href=&#34;#contact-cards&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0470: Contact events</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0470-contact-events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0470-contact-events/</guid>
+      <description>&lt;h1 id=&#34;contact-events&#34;&gt;Contact events&lt;a class=&#34;anchor&#34; href=&#34;#contact-events&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0480: Contact management</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0480-contact-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0480-contact-management/</guid>
+      <description>&lt;h1 id=&#34;contact-management&#34;&gt;Contact management&lt;a class=&#34;anchor&#34; href=&#34;#contact-management&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0490: Summary</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0490-summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0490-summary/</guid>
+      <description>&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0500: Networking overview</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0500-networking-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0500-networking-overview/</guid>
+      <description>&lt;h1 id=&#34;networking-overview&#34;&gt;Networking overview&lt;a class=&#34;anchor&#34; href=&#34;#networking-overview&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0510: Sneakernet</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0510-sneakernet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0510-sneakernet/</guid>
+      <description>&lt;h1 id=&#34;sneakernet&#34;&gt;Sneakernet&lt;a class=&#34;anchor&#34; href=&#34;#sneakernet&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0520: Local networking</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0520-local-networking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0520-local-networking/</guid>
+      <description>&lt;h1 id=&#34;local-networking&#34;&gt;Local networking&lt;a class=&#34;anchor&#34; href=&#34;#local-networking&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0530: Internet</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0530-internet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0530-internet/</guid>
+      <description>&lt;h1 id=&#34;internet&#34;&gt;Internet&lt;a class=&#34;anchor&#34; href=&#34;#internet&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0540: Peer-to-peer networking</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0540-peer-to-peer-networking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0540-peer-to-peer-networking/</guid>
+      <description>&lt;h1 id=&#34;peer-to-peer-networking&#34;&gt;Peer-to-peer networking&lt;a class=&#34;anchor&#34; href=&#34;#peer-to-peer-networking&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0550: Platform networking</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0550-platform-networking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0550-platform-networking/</guid>
+      <description>&lt;h1 id=&#34;platform-networking&#34;&gt;Platform networking&lt;a class=&#34;anchor&#34; href=&#34;#platform-networking&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0560: Servers</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0560-servers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0560-servers/</guid>
+      <description>&lt;h1 id=&#34;servers&#34;&gt;Servers&lt;a class=&#34;anchor&#34; href=&#34;#servers&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0570: DNS</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0570-dns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0570-dns/</guid>
+      <description>&lt;h1 id=&#34;dns&#34;&gt;DNS&lt;a class=&#34;anchor&#34; href=&#34;#dns&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0590: Summary</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0590-summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0590-summary/</guid>
+      <description>&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0600: Sync overview</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0600-sync-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0600-sync-overview/</guid>
+      <description>&lt;h1 id=&#34;sync-overview&#34;&gt;Sync overview&lt;a class=&#34;anchor&#34; href=&#34;#sync-overview&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0610: Synced data</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0610-synced-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0610-synced-data/</guid>
+      <description>&lt;h1 id=&#34;synced-data&#34;&gt;Synced data&lt;a class=&#34;anchor&#34; href=&#34;#synced-data&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0620: Sync encryption</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0620-sync-encryption/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0620-sync-encryption/</guid>
+      <description>&lt;h1 id=&#34;sync-encryption&#34;&gt;Sync encryption&lt;a class=&#34;anchor&#34; href=&#34;#sync-encryption&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0630: Direct sync</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0630-direct-sync/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0630-direct-sync/</guid>
+      <description>&lt;h1 id=&#34;direct-sync&#34;&gt;Direct sync&lt;a class=&#34;anchor&#34; href=&#34;#direct-sync&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0650: Server-managed sync</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0650-server-managed-sync/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0650-server-managed-sync/</guid>
+      <description>&lt;h1 id=&#34;server-managed-sync&#34;&gt;Server-managed sync&lt;a class=&#34;anchor&#34; href=&#34;#server-managed-sync&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0660: Filesystem sync</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0660-filesystem-sync/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0660-filesystem-sync/</guid>
+      <description>&lt;h1 id=&#34;filesystem-sync&#34;&gt;Filesystem sync&lt;a class=&#34;anchor&#34; href=&#34;#filesystem-sync&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0670: Platform sync</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0670-platform-sync/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0670-platform-sync/</guid>
+      <description>&lt;h1 id=&#34;platform-sync&#34;&gt;Platform sync&lt;a class=&#34;anchor&#34; href=&#34;#platform-sync&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0680: Bucket sync</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0680-bucket-sync/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0680-bucket-sync/</guid>
+      <description>&lt;h1 id=&#34;bucket-sync&#34;&gt;Bucket sync&lt;a class=&#34;anchor&#34; href=&#34;#bucket-sync&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0690: Summary</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0690-summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0690-summary/</guid>
+      <description>&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0700: Connections overview</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0700-connections-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0700-connections-overview/</guid>
+      <description>&lt;h1 id=&#34;connections-overview&#34;&gt;Connections overview&lt;a class=&#34;anchor&#34; href=&#34;#connections-overview&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0710: Connection prerequisites</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0710-connection-prerequisites/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0710-connection-prerequisites/</guid>
+      <description>&lt;h1 id=&#34;connection-prerequisites&#34;&gt;Connection prerequisites&lt;a class=&#34;anchor&#34; href=&#34;#connection-prerequisites&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0720: Connection requests</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0720-connection-requests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0720-connection-requests/</guid>
+      <description>&lt;h1 id=&#34;connection-requests&#34;&gt;Connection requests&lt;a class=&#34;anchor&#34; href=&#34;#connection-requests&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0730: Connection request routing</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0730-connection-request-routing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0730-connection-request-routing/</guid>
+      <description>&lt;h1 id=&#34;connection-request-routing&#34;&gt;Connection request routing&lt;a class=&#34;anchor&#34; href=&#34;#connection-request-routing&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0740: Connection acceptance</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0740-connection-acceptance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0740-connection-acceptance/</guid>
+      <description>&lt;h1 id=&#34;connection-acceptance&#34;&gt;Connection acceptance&lt;a class=&#34;anchor&#34; href=&#34;#connection-acceptance&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0750: Connection management</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0750-connection-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0750-connection-management/</guid>
+      <description>&lt;h1 id=&#34;connection-management&#34;&gt;Connection management&lt;a class=&#34;anchor&#34; href=&#34;#connection-management&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0790: Summary</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0790-summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0790-summary/</guid>
+      <description>&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0800: Sessions overview</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0800-sessions-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0800-sessions-overview/</guid>
+      <description>&lt;h1 id=&#34;sessions-overview&#34;&gt;Sessions overview&lt;a class=&#34;anchor&#34; href=&#34;#sessions-overview&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0810: Session keys</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0810-session-keys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0810-session-keys/</guid>
+      <description>&lt;h1 id=&#34;session-keys&#34;&gt;Session keys&lt;a class=&#34;anchor&#34; href=&#34;#session-keys&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0820: Session key exchange</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0820-session-key-exchange/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0820-session-key-exchange/</guid>
+      <description>&lt;h1 id=&#34;session-key-exchange&#34;&gt;Session key exchange&lt;a class=&#34;anchor&#34; href=&#34;#session-key-exchange&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0830: Session key storage</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0830-session-key-storage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0830-session-key-storage/</guid>
+      <description>&lt;h1 id=&#34;session-key-storage&#34;&gt;Session key storage&lt;a class=&#34;anchor&#34; href=&#34;#session-key-storage&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0840: Session establishment</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0840-session-establishment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0840-session-establishment/</guid>
+      <description>&lt;h1 id=&#34;session-establishment&#34;&gt;Session establishment&lt;a class=&#34;anchor&#34; href=&#34;#session-establishment&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0850: Session management</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0850-session-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0850-session-management/</guid>
+      <description>&lt;h1 id=&#34;session-management&#34;&gt;Session management&lt;a class=&#34;anchor&#34; href=&#34;#session-management&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0860: Session events</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0860-session-events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0860-session-events/</guid>
+      <description>&lt;h1 id=&#34;session-events&#34;&gt;Session events&lt;a class=&#34;anchor&#34; href=&#34;#session-events&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0890: Summary</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0890-summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0890-summary/</guid>
+      <description>&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0900: Messaging overview</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0900-messaging-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0900-messaging-overview/</guid>
+      <description>&lt;h1 id=&#34;messaging-overview&#34;&gt;Messaging overview&lt;a class=&#34;anchor&#34; href=&#34;#messaging-overview&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0910: Messaging keys</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0910-messaging-keys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0910-messaging-keys/</guid>
+      <description>&lt;h1 id=&#34;messaging-keys&#34;&gt;Messaging keys&lt;a class=&#34;anchor&#34; href=&#34;#messaging-keys&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0920: Messaging encryption</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0920-messaging-encryption/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0920-messaging-encryption/</guid>
+      <description>&lt;h1 id=&#34;messaging-encryption&#34;&gt;Messaging encryption&lt;a class=&#34;anchor&#34; href=&#34;#messaging-encryption&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0930: System messages</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0930-system-messages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0930-system-messages/</guid>
+      <description>&lt;h1 id=&#34;system-messages&#34;&gt;System messages&lt;a class=&#34;anchor&#34; href=&#34;#system-messages&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0940: Direct messages</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0940-direct-messages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0940-direct-messages/</guid>
+      <description>&lt;h1 id=&#34;direct-messages&#34;&gt;Direct messages&lt;a class=&#34;anchor&#34; href=&#34;#direct-messages&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0950: Private posts</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0950-private-posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0950-private-posts/</guid>
+      <description>&lt;h1 id=&#34;private-posts&#34;&gt;Private posts&lt;a class=&#34;anchor&#34; href=&#34;#private-posts&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0960: Group chats</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0960-group-chats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0960-group-chats/</guid>
+      <description>&lt;h1 id=&#34;group-chats&#34;&gt;Group chats&lt;a class=&#34;anchor&#34; href=&#34;#group-chats&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0970: Ephemerality</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0970-ephemerality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0970-ephemerality/</guid>
+      <description>&lt;h1 id=&#34;ephemerality&#34;&gt;Ephemerality&lt;a class=&#34;anchor&#34; href=&#34;#ephemerality&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-0990: Summary</title>
+      <link>https://mandihtha.github.io/en/spec/mps-0990-summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-0990-summary/</guid>
+      <description>&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1000: Syndication overview</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1000-syndication-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1000-syndication-overview/</guid>
+      <description>&lt;h1 id=&#34;syndication-overview&#34;&gt;Syndication overview&lt;a class=&#34;anchor&#34; href=&#34;#syndication-overview&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1010: Syndicatable data</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1010-syndicatable-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1010-syndicatable-data/</guid>
+      <description>&lt;h1 id=&#34;syndicatable-data&#34;&gt;Syndicatable data&lt;a class=&#34;anchor&#34; href=&#34;#syndicatable-data&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1020: Syndication audiences</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1020-syndication-audiences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1020-syndication-audiences/</guid>
+      <description>&lt;h1 id=&#34;syndication-audiences&#34;&gt;Syndication audiences&lt;a class=&#34;anchor&#34; href=&#34;#syndication-audiences&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1030: Filesystem syndication</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1030-filesystem-syndication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1030-filesystem-syndication/</guid>
+      <description>&lt;h1 id=&#34;filesystem-syndication&#34;&gt;Filesystem syndication&lt;a class=&#34;anchor&#34; href=&#34;#filesystem-syndication&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1040: Platform syndication</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1040-platform-syndication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1040-platform-syndication/</guid>
+      <description>&lt;h1 id=&#34;platform-syndication&#34;&gt;Platform syndication&lt;a class=&#34;anchor&#34; href=&#34;#platform-syndication&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1050: Syndication routing</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1050-syndication-routing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1050-syndication-routing/</guid>
+      <description>&lt;h1 id=&#34;syndication-routing&#34;&gt;Syndication routing&lt;a class=&#34;anchor&#34; href=&#34;#syndication-routing&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1060: Public syndication</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1060-public-syndication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1060-public-syndication/</guid>
+      <description>&lt;h1 id=&#34;public-syndication&#34;&gt;Public syndication&lt;a class=&#34;anchor&#34; href=&#34;#public-syndication&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1070: Private syndication</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1070-private-syndication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1070-private-syndication/</guid>
+      <description>&lt;h1 id=&#34;private-syndication&#34;&gt;Private syndication&lt;a class=&#34;anchor&#34; href=&#34;#private-syndication&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1080: Interoperable syndication</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1080-interoperable-syndication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1080-interoperable-syndication/</guid>
+      <description>&lt;h1 id=&#34;interoperable-syndication&#34;&gt;Interoperable syndication&lt;a class=&#34;anchor&#34; href=&#34;#interoperable-syndication&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1090: Summary</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1090-summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1090-summary/</guid>
+      <description>&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1100: Publication overview</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1100-publication-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1100-publication-overview/</guid>
+      <description>&lt;h1 id=&#34;publication-overview&#34;&gt;Publication overview&lt;a class=&#34;anchor&#34; href=&#34;#publication-overview&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1110: Publishable data</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1110-publishable-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1110-publishable-data/</guid>
+      <description>&lt;h1 id=&#34;publishable-data&#34;&gt;Publishable data&lt;a class=&#34;anchor&#34; href=&#34;#publishable-data&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1120: Publication formats</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1120-publication-formats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1120-publication-formats/</guid>
+      <description>&lt;h1 id=&#34;publication-formats&#34;&gt;Publication formats&lt;a class=&#34;anchor&#34; href=&#34;#publication-formats&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1130: HTML publication</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1130-html-publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1130-html-publication/</guid>
+      <description>&lt;h1 id=&#34;html-publication&#34;&gt;HTML publication&lt;a class=&#34;anchor&#34; href=&#34;#html-publication&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1140: RSS publication</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1140-rss-publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1140-rss-publication/</guid>
+      <description>&lt;h1 id=&#34;rss-publication&#34;&gt;RSS publication&lt;a class=&#34;anchor&#34; href=&#34;#rss-publication&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1150: Decentralized publication</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1150-decentralized-publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1150-decentralized-publication/</guid>
+      <description>&lt;h1 id=&#34;decentralized-publication&#34;&gt;Decentralized publication&lt;a class=&#34;anchor&#34; href=&#34;#decentralized-publication&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1160: Server publication</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1160-server-publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1160-server-publication/</guid>
+      <description>&lt;h1 id=&#34;server-publication&#34;&gt;Server publication&lt;a class=&#34;anchor&#34; href=&#34;#server-publication&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1170: CDN publication</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1170-cdn-publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1170-cdn-publication/</guid>
+      <description>&lt;h1 id=&#34;cdn-publication&#34;&gt;CDN publication&lt;a class=&#34;anchor&#34; href=&#34;#cdn-publication&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1180: Ephemerality</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1180-ephemerality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1180-ephemerality/</guid>
+      <description>&lt;h1 id=&#34;ephemerality&#34;&gt;Ephemerality&lt;a class=&#34;anchor&#34; href=&#34;#ephemerality&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1190: Publication summary</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1190-summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1190-summary/</guid>
+      <description>&lt;h1 id=&#34;publication-summary&#34;&gt;Publication summary&lt;a class=&#34;anchor&#34; href=&#34;#publication-summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1200: Accounts overview</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1200-accounts-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1200-accounts-overview/</guid>
+      <description>&lt;h1 id=&#34;accounts-overview&#34;&gt;Accounts overview&lt;a class=&#34;anchor&#34; href=&#34;#accounts-overview&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1210: Peer accounts</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1210-peer-accounts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1210-peer-accounts/</guid>
+      <description>&lt;h1 id=&#34;peer-accounts&#34;&gt;Peer accounts&lt;a class=&#34;anchor&#34; href=&#34;#peer-accounts&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1220: Server accounts</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1220-server-accounts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1220-server-accounts/</guid>
+      <description>&lt;h1 id=&#34;server-accounts&#34;&gt;Server accounts&lt;a class=&#34;anchor&#34; href=&#34;#server-accounts&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1250: Guest account management</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1250-guest-account-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1250-guest-account-management/</guid>
+      <description>&lt;h1 id=&#34;guest-account-management&#34;&gt;Guest account management&lt;a class=&#34;anchor&#34; href=&#34;#guest-account-management&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1260: Host account management</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1260-host-account-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1260-host-account-management/</guid>
+      <description>&lt;h1 id=&#34;host-account-management&#34;&gt;Host account management&lt;a class=&#34;anchor&#34; href=&#34;#host-account-management&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1270: Federation</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1270-federation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1270-federation/</guid>
+      <description>&lt;h1 id=&#34;federation&#34;&gt;Federation&lt;a class=&#34;anchor&#34; href=&#34;#federation&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1280: Billing</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1280-billing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1280-billing/</guid>
+      <description>&lt;h1 id=&#34;billing&#34;&gt;Billing&lt;a class=&#34;anchor&#34; href=&#34;#billing&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1290: Summary</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1290-summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1290-summary/</guid>
+      <description>&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1300: Backups overview</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1300-backups-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1300-backups-overview/</guid>
+      <description>&lt;h1 id=&#34;backups-overview&#34;&gt;Backups overview&lt;a class=&#34;anchor&#34; href=&#34;#backups-overview&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1310: Backed-up data</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1310-backed-up-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1310-backed-up-data/</guid>
+      <description>&lt;h1 id=&#34;backed-up-data&#34;&gt;Backed-up data&lt;a class=&#34;anchor&#34; href=&#34;#backed-up-data&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1320: Backup encryption</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1320-backup-encryption/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1320-backup-encryption/</guid>
+      <description>&lt;h1 id=&#34;backup-encryption&#34;&gt;Backup encryption&lt;a class=&#34;anchor&#34; href=&#34;#backup-encryption&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1330: Recovery kit backups</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1330-recovery-kit-backups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1330-recovery-kit-backups/</guid>
+      <description>&lt;h1 id=&#34;recovery-kit-backups&#34;&gt;Recovery kit backups&lt;a class=&#34;anchor&#34; href=&#34;#recovery-kit-backups&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1340: Peer-managed backups</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1340-peer-managed-backups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1340-peer-managed-backups/</guid>
+      <description>&lt;h1 id=&#34;peer-managed-backups&#34;&gt;Peer-managed backups&lt;a class=&#34;anchor&#34; href=&#34;#peer-managed-backups&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1350: Server-managed backups</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1350-server-managed-backups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1350-server-managed-backups/</guid>
+      <description>&lt;h1 id=&#34;server-managed-backups&#34;&gt;Server-managed backups&lt;a class=&#34;anchor&#34; href=&#34;#server-managed-backups&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1360: Filesystem backups</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1360-filesystem-backups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1360-filesystem-backups/</guid>
+      <description>&lt;h1 id=&#34;filesystem-backups&#34;&gt;Filesystem backups&lt;a class=&#34;anchor&#34; href=&#34;#filesystem-backups&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1370: Platform backups</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1370-platform-backups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1370-platform-backups/</guid>
+      <description>&lt;h1 id=&#34;platform-backups&#34;&gt;Platform backups&lt;a class=&#34;anchor&#34; href=&#34;#platform-backups&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1380: Bucket backups</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1380-bucket-backups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1380-bucket-backups/</guid>
+      <description>&lt;h1 id=&#34;bucket-backups&#34;&gt;Bucket backups&lt;a class=&#34;anchor&#34; href=&#34;#bucket-backups&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1390: Summary</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1390-summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1390-summary/</guid>
+      <description>&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1400: Recovery overview</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1400-recovery-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1400-recovery-overview/</guid>
+      <description>&lt;h1 id=&#34;recovery-overview&#34;&gt;Recovery overview&lt;a class=&#34;anchor&#34; href=&#34;#recovery-overview&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1410: Recoverable data</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1410-recoverable-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1410-recoverable-data/</guid>
+      <description>&lt;h1 id=&#34;recoverable-data&#34;&gt;Recoverable data&lt;a class=&#34;anchor&#34; href=&#34;#recoverable-data&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1420: Recovery decryption</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1420-recovery-decryption/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1420-recovery-decryption/</guid>
+      <description>&lt;h1 id=&#34;recovery-decryption&#34;&gt;Recovery decryption&lt;a class=&#34;anchor&#34; href=&#34;#recovery-decryption&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1430: Recovery kit usage</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1430-recovery-kit-usage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1430-recovery-kit-usage/</guid>
+      <description>&lt;h1 id=&#34;recovery-kit-usage&#34;&gt;Recovery kit usage&lt;a class=&#34;anchor&#34; href=&#34;#recovery-kit-usage&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1440: Peer-based recovery</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1440-peer-based-recovery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1440-peer-based-recovery/</guid>
+      <description>&lt;h1 id=&#34;peer-based-recovery&#34;&gt;Peer-based recovery&lt;a class=&#34;anchor&#34; href=&#34;#peer-based-recovery&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1450: Server-based recovery</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1450-server-based-recovery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1450-server-based-recovery/</guid>
+      <description>&lt;h1 id=&#34;server-based-recovery&#34;&gt;Server-based recovery&lt;a class=&#34;anchor&#34; href=&#34;#server-based-recovery&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1460: Filesystem-based recovery</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1460-filesystem-based-recovery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1460-filesystem-based-recovery/</guid>
+      <description>&lt;h1 id=&#34;filesystem-based-recovery&#34;&gt;Filesystem-based recovery&lt;a class=&#34;anchor&#34; href=&#34;#filesystem-based-recovery&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1470: Platform-based recovery</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1470-platform-based-recovery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1470-platform-based-recovery/</guid>
+      <description>&lt;h1 id=&#34;platform-based-recovery&#34;&gt;Platform-based recovery&lt;a class=&#34;anchor&#34; href=&#34;#platform-based-recovery&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1480: Bucket-based recovery</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1480-bucket-based-recovery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1480-bucket-based-recovery/</guid>
+      <description>&lt;h1 id=&#34;bucket-based-recovery&#34;&gt;Bucket-based recovery&lt;a class=&#34;anchor&#34; href=&#34;#bucket-based-recovery&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1490: Summary</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1490-summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1490-summary/</guid>
+      <description>&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1500: Interoperability overview</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1500-interoperability-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1500-interoperability-overview/</guid>
+      <description>&lt;h1 id=&#34;interoperability-overview&#34;&gt;Interoperability overview&lt;a class=&#34;anchor&#34; href=&#34;#interoperability-overview&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1510: ActivityPub ecosystem</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1510-activitypub-ecosystem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1510-activitypub-ecosystem/</guid>
+      <description>&lt;h1 id=&#34;activitypub-ecosystem&#34;&gt;ActivityPub ecosystem&lt;a class=&#34;anchor&#34; href=&#34;#activitypub-ecosystem&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1520: ActivityPub interoperability</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1520-activitypub-interoperability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1520-activitypub-interoperability/</guid>
+      <description>&lt;h1 id=&#34;activitypub-interoperability&#34;&gt;ActivityPub interoperability&lt;a class=&#34;anchor&#34; href=&#34;#activitypub-interoperability&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1530: AT Protocol interoperability</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1530-at-protocol-interoperability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1530-at-protocol-interoperability/</guid>
+      <description>&lt;h1 id=&#34;at-protocol-interoperability&#34;&gt;AT Protocol interoperability&lt;a class=&#34;anchor&#34; href=&#34;#at-protocol-interoperability&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1540: IPFS interoperability</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1540-ipfs-interoperability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1540-ipfs-interoperability/</guid>
+      <description>&lt;h1 id=&#34;ipfs-interoperability&#34;&gt;IPFS interoperability&lt;a class=&#34;anchor&#34; href=&#34;#ipfs-interoperability&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1550: Matrix interoperability</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1550-matrix-interoperability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1550-matrix-interoperability/</guid>
+      <description>&lt;h1 id=&#34;matrix-interoperability&#34;&gt;Matrix interoperability&lt;a class=&#34;anchor&#34; href=&#34;#matrix-interoperability&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1560: Nostr interoperability</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1560-nostr-interoperability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1560-nostr-interoperability/</guid>
+      <description>&lt;h1 id=&#34;nostr-interoperability&#34;&gt;Nostr interoperability&lt;a class=&#34;anchor&#34; href=&#34;#nostr-interoperability&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1570: RSS interoperability</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1570-rss-interoperability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1570-rss-interoperability/</guid>
+      <description>&lt;h1 id=&#34;rss-interoperability&#34;&gt;RSS interoperability&lt;a class=&#34;anchor&#34; href=&#34;#rss-interoperability&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1580: SSB interoperability</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1580-ssb-interoperability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1580-ssb-interoperability/</guid>
+      <description>&lt;h1 id=&#34;ssb-interoperability&#34;&gt;SSB interoperability&lt;a class=&#34;anchor&#34; href=&#34;#ssb-interoperability&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-1590: Summary</title>
+      <link>https://mandihtha.github.io/en/spec/mps-1590-summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-1590-summary/</guid>
+      <description>&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-9010: Appendix C: Cryptography</title>
+      <link>https://mandihtha.github.io/en/spec/mps-9010-appendix-cryptography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-9010-appendix-cryptography/</guid>
+      <description>&lt;h1 id=&#34;appendix-c-cryptography&#34;&gt;Appendix C: Cryptography&lt;a class=&#34;anchor&#34; href=&#34;#appendix-c-cryptography&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-9020: Appendix D: Databases</title>
+      <link>https://mandihtha.github.io/en/spec/mps-9020-appendix-databases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-9020-appendix-databases/</guid>
+      <description>&lt;h1 id=&#34;appendix-d-databases&#34;&gt;Appendix D: Databases&lt;a class=&#34;anchor&#34; href=&#34;#appendix-d-databases&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-9030: Appendix G: Glossary</title>
+      <link>https://mandihtha.github.io/en/spec/mps-9030-appendix-glossary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-9030-appendix-glossary/</guid>
+      <description>&lt;h1 id=&#34;appendix-g-glossary&#34;&gt;Appendix G: Glossary&lt;a class=&#34;anchor&#34; href=&#34;#appendix-g-glossary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-9040: Appendix P: Privacy</title>
+      <link>https://mandihtha.github.io/en/spec/mps-9040-appendix-privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-9040-appendix-privacy/</guid>
+      <description>&lt;h1 id=&#34;appendix-p-privacy&#34;&gt;Appendix P: Privacy&lt;a class=&#34;anchor&#34; href=&#34;#appendix-p-privacy&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPS-9050: Appendix S: Security</title>
+      <link>https://mandihtha.github.io/en/spec/mps-9050-appendix-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mandihtha.github.io/en/spec/mps-9050-appendix-security/</guid>
+      <description>&lt;h1 id=&#34;appendix-s-security&#34;&gt;Appendix S: Security&lt;a class=&#34;anchor&#34; href=&#34;#appendix-s-security&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;🚧 Under construction 🚧&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
